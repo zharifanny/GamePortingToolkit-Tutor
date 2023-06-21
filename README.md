@@ -1,8 +1,7 @@
 # GamePortingToolkit-Tutor
 tutor gameportingtoolkit revisi nambah" sendiri
 
-- ![#f03c15](aisdjiasjdias) `#f03c15`
-- 
+
 Game Porting Toolkit 1.0 Beta README
 
 Overview
